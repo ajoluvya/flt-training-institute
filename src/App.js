@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+//import CourseList from './components/Courses';
+//import BranchList from './components/Branches';
+//import logo from './logo.svg';
+import {AddInstructor} from './components/Instructors';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <h1>
+          Flight Training Institute
+        </h1>
       </header>
+      <section>
+        <AddInstructor/>
+      </section>
     </div>
   );
 }

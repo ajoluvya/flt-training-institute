@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Instrumentation"},
+    {"id":2,"name":"Cockpit Communication"},
+    {"id":3,"name":"Signalling"},
+    {"id":4,"name":"Flight Descent"},
+    {"id":5,"name":"Flight Ascent"},
+    {"id":6,"name":"Flight Mapping"}
+]

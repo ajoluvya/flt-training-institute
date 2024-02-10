@@ -1,0 +1,12 @@
+[
+    {"id":1,"firstname":"Odeke","lastname":"Odeke","course":"Instrumentation"},
+    {"id":2,"firstname":"Talimba","lastname":"Tenywa","course":"Cockpit Communications"},
+    {"id":3,"firstname":"Ashaba","lastname":"Ahebwa","course":"Signalling"},
+    {"id":4,"firstname":"Okello","lastname":"Oryem","course":"Flight Descent"},
+    {"id":5,"firstname":"Twine","lastname":"Rukundo","course":"Flight Ascent"},
+    {"id":6,"firstname":"Amanya","lastname":"Mushabe","course":"Cockpit Communications"},
+    {"id":7,"firstname":"Kirinyaga","lastname":"Maurani","course":"Flight Mapping"},
+    {"id":8,"firstname":"Maina","lastname":"Gichambu","course":"Flight Descent"},
+    {"id":9,"firstname":"Akiror","lastname":"Asianut","course":"Flight Ascent"},
+    {"id":10,"firstname":"Cliff","lastname":"Hereford","course":"Flight Descent"}
+]
